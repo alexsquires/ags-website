@@ -24,6 +24,16 @@ const Header = () => (
             Contact
           </Link>
         </li>
+        <li>
+          <Link to="/code" activeClassName={styles.activeNav}>
+            Code
+          </Link>
+        </li>
+        <li>
+          <Link to="/research" activeClassName={styles.activeNav}>
+            Research
+          </Link>
+        </li>
       </ul>
     </nav>
   </header>

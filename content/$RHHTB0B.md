@@ -1,6 +1,6 @@
 ---
 date: 2017-01-01
-title: "Bold Mage"
+title: "Research"
 cover: "https://unsplash.it/400/300/?random?BoldMage"
 categories:
     - Tech
